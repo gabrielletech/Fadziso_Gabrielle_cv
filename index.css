@@ -4,7 +4,25 @@ body {
     padding: 70px;
 }
 
+a {
+    color: #000000;
+}
+
 nav {
+    text-align: center;
+}
+
+ion-icon {
+    vertical-align: middle;
+}
+
+h2 {
+    font-family: Times New Roman;
+    text-align: center;
+    font-style: italic;
+}
+
+.para {
     text-align: center;
 }
 
@@ -20,6 +38,15 @@ nav {
 
 header {
     background-color: darksalmon;
+}
+
+.img-overide {
+    padding: 25px;
+}
+
+.container {
+    float: right;
+    margin-top: 2px;
 }
 
 
