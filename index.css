@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    border-style: double;
+    padding: 70px;
+}
+
+nav {
+    text-align: center;
+}
+
+.card {
+    width: 260px;
+    height: 260px;
+    margin-left: 140px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+header {
+    background-color: darksalmon;
+}
+
+
+/*#about {
+    margin-left: 0px;
+}*/
