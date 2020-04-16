@@ -30,7 +30,8 @@ class Cv extends Component {
                     <Col sm={8}>
                         <h2 className="aboutHeading"> About </h2>
                         <hr></hr>
-                        <p>I am a 21 year old young woman with a passion for design hence being extremely motivated to expand my creative side and constantly develop my skills and grow professionally in web development.</p><br></br>
+                        <p>I am a 21 year old young woman with a passion for design hence being extremely motivated to expand my creative side and constantly develop my skills and grow professionally in web development.
+                        Professional and reliable with a dedicated mind, set to performing to the highest standards and aimimg to build a successful career as a Front-end Developer. </p><br></br>
                         <h2> Education History</h2>
                         <hr></hr>
                         <p>HyperionDev | <b>Feb 2020 - present</b> </p>
@@ -41,8 +42,11 @@ class Cv extends Component {
                         <p>Cambridge Advanced Subsidiary & Advanced Level</p><br></br>
                         <h2> Work Experience </h2>
                         <hr></hr>
+                        <p>Part-time junior assistant at Ferrahub in Johannesburg | <b>Sep 2019 - present</b></p>
+                        <p>My responsibilities include content creation for the company profile, social media and website development as well as market research.</p>
                         <p>Part-time student assistant at Ariel Primary School in Harare | <b>Jan 2017 - Dec 2017</b></p>
-                        <p>My duties included preparation of kids work, assisant supervisor at swimming & tennis.</p><br></br>
+                        <p>My duties and responsibilities saw me taking on a leadership role as I helped coach pupils for their presentations for the Allied Arts Speech & Drama Festival, 
+                        as well as coaching infants sports, beginners swimming and tennis for the 1st team girls. I gained organizational skills as I was responsible for the preparation of work in the infants department.</p><br></br>
                         <h2> Skills </h2>
                         <hr></hr>
                         <ul className="skills">
@@ -52,8 +56,10 @@ class Cv extends Component {
                             <li>JavaScript</li>
                             <li>JQuery</li>
                             <li>React</li>
+                            <li>MongoDB</li>
+                            <li>Next.js</li>
                             <li>The ability to follow instructions and deliver quality results</li>
-                            <li>Exceptional communication skills</li>
+                            <li>Exceptional communication and organizational skills</li>
                         </ul>
                     </Col>
                 </Row>
